@@ -1,6 +1,6 @@
 public class Test {
 
-  static void add(){
+  static void prod(){
 
     int a=50;
     int b=10;
@@ -10,6 +10,6 @@ public class Test {
   }
   public static void main(String[] args)
   {
-    add();
+    prod();
   }
 }
