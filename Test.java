@@ -4,8 +4,8 @@ public class Test {
 
     int a=50;
     int b=10;
-    int result = a*b;
-    System.out.println("The product is " +result);
+    int result = a/b;
+    System.out.println("The quotient is " +result);
     
   }
   public static void main(String[] args)
